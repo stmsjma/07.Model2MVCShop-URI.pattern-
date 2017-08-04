@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 /com/
 /config/
 /log4j.properties
 /sql/
+=======
+/sql/
+/com/
+>>>>>>> refs/heads/new/dev
